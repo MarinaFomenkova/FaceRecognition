@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FaceRecognition.ClearImage" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="Clear" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="Methods" Hidden="true" />
+      <Field Name="pictureBox" Hidden="true" />
+      <Field Name="ToolStripMenuItemOpen" Hidden="true" />
+      <Field Name="ToolStripMenuItemSave" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQAIAQYAADUAkhgAAACAAAACAKAAAEEQAAAAwQBBIEA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SkinMethod" />
+      <Property Name="Neuron" />
+      <Property Name="Link" />
+      <Property Name="NeuralNetMethodPers" />
+      <Property Name="OvalMethod" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FaceRecognition.Link" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Link.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaceRecognition.NeuralNetMethodPers" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="FaceRecognition.NeuralNetMethodPers.TypeOfProgram">
+        <TypeIdentifier>
+          <NewMemberFileName>NeuralNetMethodPers.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAECgAAAACAAEEAAAIAAAAAQAAAAQAAAAIA=</HashCode>
+      <FileName>NeuralNetMethodPers.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Neuron" />
+      <Property Name="Link" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FaceRecognition.Neuron" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Link" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FaceRecognition.OvalMethod" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAQAAgAAAAAABAAABAAAAACAAAAAA=</HashCode>
+      <FileName>OvalMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaceRecognition.ReadWriteXMLForNeuralNet">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReadWriteXMLForNeuralNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaceRecognition.SkinMethod" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgQAAAACAAAAAAAAAAAEAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>SkinMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

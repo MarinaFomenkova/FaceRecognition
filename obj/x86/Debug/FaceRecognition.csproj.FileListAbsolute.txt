@@ -1,0 +1,24 @@
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.ClearImage.resources
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\тех про новы вариант\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.ClearImage.resources
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.ClearImage.resources
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\1\Desktop\статьи\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\по диплому\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\1\Desktop\материалы по учебе\по диплому\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
